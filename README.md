@@ -4,7 +4,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Build
 
-Open cmd and get to the application folder. (i.e. GitHub-Search-using-Angular) and
+Open cmd and get to the application folder. (i.e. GitHub-Search-using-Angular-master) and
 Run 'npm install' to install all the dependency from package.json.
 
 
