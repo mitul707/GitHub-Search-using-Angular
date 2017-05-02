@@ -1,6 +1,13 @@
-# Githubsearch
+# GitHub-Search-using-Angular
+The code is developed to search GitHub by Username. A service is created that fetches the data using Github api.
+With this service we can
+  see full profile of the given username
+  see total numbers of repositories.
+  see all the Repositories and numbers of watchers and forks on the individual links.
+  see followers and following
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
+
 
 ## Build
 
