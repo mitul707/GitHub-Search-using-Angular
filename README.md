@@ -11,9 +11,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Build
 
-Open cmd and get to the application folder. (i.e. GitHub-Search-using-Angular-master) and
+Open command prompt and get to the application folder. (i.e. GitHub-Search-using-Angular-master) and
 Run 'npm install' to install all the dependency from package.json.
 
 
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` and wait till it gets compiled. Once it shows "webpack: compiled successfully.", Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
